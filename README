@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1821
+
+A simple syntax script for NAnt build files (http://nant.sourceforge.net/). Just highlights elements and attributes as extracted from the version 0.85 schema.
